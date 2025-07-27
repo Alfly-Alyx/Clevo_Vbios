@@ -13,4 +13,7 @@ TDP can be adjust using MSI Afterburner. This means TDP are set to 150/170 or 18
 Two stock Vbios
 
 
+
+To flash your Vbios I recommand :
 **Use NVflash to flash your Vbios or CH341+Neoprogrammer**
+Don't forget to make a backup dump of your current Vbios before start.
