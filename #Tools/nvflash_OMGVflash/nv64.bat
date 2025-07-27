@@ -1,0 +1,1 @@
+nvflash64.exe -6 Clevo.RTX3080.16384.210205.rom
